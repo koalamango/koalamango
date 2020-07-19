@@ -8,7 +8,7 @@
 <a href="https://github.com/koalamango">
   <img align="left" alt="Jessie's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="instagr.am/koala.mango">
+<a href="https://instagr.am/koala.mango">
   <img align="left" alt="Jessie's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@koalamango">
