@@ -25,7 +25,6 @@
 
 ```javascript
 const jessie = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, NextJS, Gatsby, 
           Styled-Components, Cypress, Jest, AWS],
