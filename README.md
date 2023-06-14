@@ -26,7 +26,7 @@ const jessie = {
          while navigating my way into the full-stack
          world.",
  core: [Javascript, Typescript, HTML, CSS],
- framework: [React, NextJS, Node, AWS],
+ framework: [React, NextJS, Node, AWS, CI/CD],
  architecture: ["serverless", "microservices", 
                 "event-driven", "containerisation"],
  techCommunities: {
