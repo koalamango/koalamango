@@ -1,7 +1,5 @@
 <h2> Hello World! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width=""/>
-
 <a href="https://twitter.com/koalamango">
   <img align="left" alt="Jessie's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -20,18 +18,23 @@
 
 ###  A little more about me...
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width=""/>
+
 ```javascript
 const jessie = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, NextJS, Gatsby, 
-          Styled-Components, Cypress, Jest, AWS],
-  architecture: ["microservices", "event-driven",
-                 "headless cms", "design system"],
-  techCommunities: {
-    cohost: ["JS Roundabout", "AI JavaScript"],
-    speaker: "React Devs",
+ intro: "I primarily focus on frontend development 
+         while navigating my way into the full-stack
+         world.",
+ core: [Javascript, Typescript, HTML, CSS],
+ framework: [React, NextJS, Node, AWS],
+ architecture: ["serverless", "microservices", 
+                "event-driven", "containerisation"],
+ techCommunities: {
+   member: "Women Techmakers",
+   cohost: ["JS Roundabout", "AI JavaScript"],
+   speaker: "React Devs",
  },
- challenge: "I am doing the #100DaysOfCode challenge
-             focused on typescript and AWS CDK"
+ challenge: "I am joining the #100daysofcloud, 
+            with a focus on AWS.",
 }
 ```
