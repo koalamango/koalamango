@@ -22,19 +22,22 @@
 
 ```javascript
 const jessie = {
- intro: "I primarily focus on frontend development 
-         while navigating my way into the full-stack
-         world.",
- core: [Javascript, Typescript, HTML, CSS],
- framework: [React, NextJS, Node, AWS, CI/CD],
- architecture: ["serverless", "microservices", 
-                "event-driven", "containerisation"],
+ intro: "Software engineer rooted in frontend engineering, 
+         expanding into full-stack and system design.",
+ technologies: [TypeScript, JavaScript, React,
+                Next.js, Node.js, AWS, CI/CD],
+ architecture: ["scalable system design",
+                "cloud-native applications",
+                "event-driven patterns",
+                "built with AI integration in mind"],
+ mindset: ["lifelong learning",
+           "user-centric thinking",
+           "AI-integrated development",
+           "cross-domain collaboration"],
  techCommunities: {
    member: "Women Techmakers",
    cohost: ["JS Roundabout", "AI JavaScript"],
    speaker: "React Devs",
  },
- challenge: "I am joining the #100daysofcloud, 
-            with a focus on AWS.",
 }
 ```
